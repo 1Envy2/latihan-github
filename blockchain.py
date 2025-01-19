@@ -247,3 +247,5 @@ def sync():
 if __name__ == '__main__':
     # Gunakan host '0.0.0.0' agar bisa diakses dari luar localhost, port ditentukan dari argumen
     app.run(host='0.0.0.0', port=int(sys.argv[1]))
+
+#testing
